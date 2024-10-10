@@ -1,0 +1,4 @@
+characters:
+intro about character 1
+intro about character 2
+intro about character 3
